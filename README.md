@@ -116,3 +116,8 @@ https://yapcjapan.org/2024hakodate/
 https://yapcjapan.org/2024hiroshima/  
 https://yapcjapan.org/2023kyoto/  
 https://yapcjapan.org/2022online/  
+
+### 開発生産性Conference
+
+https://dev-productivity-con.findy-code.io/2024  
+https://dev-productivity-con.findy-code.io/2023  
