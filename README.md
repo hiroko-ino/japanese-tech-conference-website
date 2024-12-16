@@ -121,3 +121,48 @@ https://yapcjapan.org/2022online/
 
 https://ooc.dev/2024/  
 https://ooc.dev/2020/  
+
+### SRE NEXT
+
+https://sre-next.dev/2024/  
+https://sre-next.dev/2023/  
+https://sre-next.dev/2022/  
+https://sre-next.dev/2020/  
+
+### JAWS DAYS
+
+https://jawsdays2025.jaws-ug.jp/  
+https://jawsdays2024.jaws-ug.jp/  
+https://jawsdays2022.jaws-ug.jp/  
+https://jawsdays2021.jaws-ug.jp/  
+https://jawsdays2020.jaws-ug.jp/  
+https://jawsdays2019.jaws-ug.jp/  
+https://jawsdays2018.jaws-ug.jp/  
+https://jawsdays2017.jaws-ug.jp/  
+https://jawsdays2016.jaws-ug.jp/  
+https://jawsdays2015.jaws-ug.jp/  
+https://jawsdays2014.jaws-ug.jp/  
+https://jawsdays2013.jaws-ug.jp/  
+
+### Kotlin Fest
+
+https://www.kotlinfest.dev/  
+https://2022.kotlinfest.dev/  
+
+### JJUG CCC
+
+https://ccc2024fall.java-users.jp/  
+https://ccc2024spring.java-users.jp/  
+https://ccc2023fall.java-users.jp/  
+https://ccc2022fall.java-users.jp/  
+https://ccc2022spring.java-users.jp/  
+https://ccc2021fall.java-users.jp/  
+https://ccc2020fall.java-users.jp/  
+https://ccc2020spring.java-users.jp/  
+https://ccc2019fall.java-users.jp/  
+
+### 開発生産性Conference
+
+https://dev-productivity-con.findy-code.io/2024  
+https://dev-productivity-con.findy-code.io/2023  
+
