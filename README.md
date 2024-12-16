@@ -128,3 +128,8 @@ https://ccc2021fall.java-users.jp/
 https://ccc2020fall.java-users.jp/  
 https://ccc2020spring.java-users.jp/  
 https://ccc2019fall.java-users.jp/  
+
+### 開発生産性Conference
+
+https://dev-productivity-con.findy-code.io/2024  
+https://dev-productivity-con.findy-code.io/2023  
