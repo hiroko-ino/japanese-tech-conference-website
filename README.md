@@ -117,6 +117,11 @@ https://yapcjapan.org/2024hiroshima/
 https://yapcjapan.org/2023kyoto/  
 https://yapcjapan.org/2022online/  
 
+### Kotlin Fest
+
+https://www.kotlinfest.dev/  
+https://2022.kotlinfest.dev/  
+
 ### JJUG CCC
 
 https://ccc2024fall.java-users.jp/  
@@ -133,3 +138,4 @@ https://ccc2019fall.java-users.jp/
 
 https://dev-productivity-con.findy-code.io/2024  
 https://dev-productivity-con.findy-code.io/2023  
+
