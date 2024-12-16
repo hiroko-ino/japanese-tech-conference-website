@@ -46,29 +46,29 @@ https://2009.agilejapan.jp/04/22181302.html
 
 ### Developers Summit
 
-https://event.shoeisha.jp/devsumi/20250213
-https://event.shoeisha.jp/devsumi/20240215
-https://event.shoeisha.jp/devsumi/20230209
-https://event.shoeisha.jp/devsumi/20220217
-https://event.shoeisha.jp/devsumi/20210218
-https://event.shoeisha.jp/devsumi/20200213
-https://event.shoeisha.jp/devsumi/20190214
-https://event.shoeisha.jp/devsumi/20180215
-https://event.shoeisha.jp/devsumi/20170216
-https://event.shoeisha.jp/devsumi/20160218
-https://event.shoeisha.jp/devsumi/20150219
-https://event.shoeisha.jp/devsumi/20140213
-https://event.shoeisha.jp/devsumi/2013
-https://codezine.jp/devsumi/2012/
-https://codezine.jp/devsumi/2011/
-https://codezine.jp/devsumi/2010/
-https://codezine.jp/devsumi/2009/
-https://codezine.jp/devsumi/2008/
-https://codezine.jp/devsumi/2007/
-https://codezine.jp/devsumi/2006/
-https://codezine.jp/devsumi/2005/
-https://codezine.jp/devsumi/2004/
-https://codezine.jp/devsumi/2003/
+https://event.shoeisha.jp/devsumi/20250213  
+https://event.shoeisha.jp/devsumi/20240215  
+https://event.shoeisha.jp/devsumi/20230209  
+https://event.shoeisha.jp/devsumi/20220217  
+https://event.shoeisha.jp/devsumi/20210218  
+https://event.shoeisha.jp/devsumi/20200213  
+https://event.shoeisha.jp/devsumi/20190214  
+https://event.shoeisha.jp/devsumi/20180215  
+https://event.shoeisha.jp/devsumi/20170216  
+https://event.shoeisha.jp/devsumi/20160218  
+https://event.shoeisha.jp/devsumi/20150219  
+https://event.shoeisha.jp/devsumi/20140213  
+https://event.shoeisha.jp/devsumi/2013  
+https://codezine.jp/devsumi/2012/  
+https://codezine.jp/devsumi/2011/  
+https://codezine.jp/devsumi/2010/  
+https://codezine.jp/devsumi/2009/  
+https://codezine.jp/devsumi/2008/  
+https://codezine.jp/devsumi/2007/  
+https://codezine.jp/devsumi/2006/  
+https://codezine.jp/devsumi/2005/  
+https://codezine.jp/devsumi/2004/  
+https://codezine.jp/devsumi/2003/  
 
 ### Vue Fes Japan
 
@@ -112,7 +112,7 @@ https://phperkaigi.jp/2018/
 
 ### YAPC
 
-https://yapcjapan.org/2024hakodate/
-https://yapcjapan.org/2024hiroshima/
-https://yapcjapan.org/2023kyoto/
-https://yapcjapan.org/2022online/
+https://yapcjapan.org/2024hakodate/  
+https://yapcjapan.org/2024hiroshima/  
+https://yapcjapan.org/2023kyoto/  
+https://yapcjapan.org/2022online/  
