@@ -117,6 +117,21 @@ https://yapcjapan.org/2024hiroshima/
 https://yapcjapan.org/2023kyoto/  
 https://yapcjapan.org/2022online/  
 
+### JAWS DAYS
+
+https://jawsdays2025.jaws-ug.jp/  
+https://jawsdays2024.jaws-ug.jp/  
+https://jawsdays2022.jaws-ug.jp/  
+https://jawsdays2021.jaws-ug.jp/  
+https://jawsdays2020.jaws-ug.jp/  
+https://jawsdays2019.jaws-ug.jp/  
+https://jawsdays2018.jaws-ug.jp/  
+https://jawsdays2017.jaws-ug.jp/  
+https://jawsdays2016.jaws-ug.jp/  
+https://jawsdays2015.jaws-ug.jp/  
+https://jawsdays2014.jaws-ug.jp/  
+https://jawsdays2013.jaws-ug.jp/  
+
 ### Kotlin Fest
 
 https://www.kotlinfest.dev/  
