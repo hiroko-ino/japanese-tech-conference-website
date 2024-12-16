@@ -116,3 +116,8 @@ https://yapcjapan.org/2024hakodate/
 https://yapcjapan.org/2024hiroshima/  
 https://yapcjapan.org/2023kyoto/  
 https://yapcjapan.org/2022online/  
+
+### Kotlin Fest
+
+https://www.kotlinfest.dev/  
+https://2022.kotlinfest.dev/  
