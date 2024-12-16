@@ -116,3 +116,15 @@ https://yapcjapan.org/2024hakodate/
 https://yapcjapan.org/2024hiroshima/  
 https://yapcjapan.org/2023kyoto/  
 https://yapcjapan.org/2022online/  
+
+### JJUG CCC
+
+https://ccc2024fall.java-users.jp/  
+https://ccc2024spring.java-users.jp/  
+https://ccc2023fall.java-users.jp/  
+https://ccc2022fall.java-users.jp/  
+https://ccc2022spring.java-users.jp/  
+https://ccc2021fall.java-users.jp/  
+https://ccc2020fall.java-users.jp/  
+https://ccc2020spring.java-users.jp/  
+https://ccc2019fall.java-users.jp/  
