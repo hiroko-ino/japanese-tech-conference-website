@@ -117,6 +117,11 @@ https://yapcjapan.org/2024hiroshima/
 https://yapcjapan.org/2023kyoto/  
 https://yapcjapan.org/2022online/  
 
+### Object-Oriented Conference
+
+https://ooc.dev/2024/  
+https://ooc.dev/2020/  
+
 ### SRE NEXT
 
 https://sre-next.dev/2024/  
